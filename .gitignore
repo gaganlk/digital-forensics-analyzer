@@ -1,0 +1,6 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+database/forensic.db 
+reports/ 
+credentials/ 
